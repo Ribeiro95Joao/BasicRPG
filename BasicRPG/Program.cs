@@ -1,2 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using BasicRPG.entities;
+
+var w1 = new Warrior("aa");
+Console.WriteLine(w1.Name);

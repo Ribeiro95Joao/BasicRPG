@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.sourcelink.json
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\bin\Debug\net8.0\BasicRPG.exe
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\bin\Debug\net8.0\BasicRPG.deps.json
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\bin\Debug\net8.0\BasicRPG.runtimeconfig.json
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\bin\Debug\net8.0\BasicRPG.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\bin\Debug\net8.0\BasicRPG.pdb
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\refint\BasicRPG.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.pdb
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\BasicRPG.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\BasicRPG\BasicRPG\BasicRPG\obj\Debug\net8.0\ref\BasicRPG.dll

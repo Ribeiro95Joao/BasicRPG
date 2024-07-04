@@ -15,7 +15,8 @@ namespace BasicRPG.entities
 
         public void BattlePVP(Character ch1, Character ch2)
         {
-            ch2.TotalLife = 10;
+            Console.WriteLine($"Round 1: {ch1.Name} ataca {ch2.Name}");
+            
         }
     }
 }
