@@ -8,15 +8,35 @@ namespace BasicRPG.entities
 {
     internal abstract class Character
     {
-        protected string Name { get; set; }
-        protected double TotalLife { get; set; }
+        private string name;
+        public string Name 
+        { 
+            get {return name; }
+            set {name = value; }
+        }
+        private double totalLife;
+        public double TotalLife
+        {
+            get {return totalLife; }
+            set {totalLife = value; }
+        }
         protected int Level { get; set; }
-        protected double AttackPower { get; set; }
-        protected double DefensePower { get; set; }
+     
+        protected double AttackPower 
+        {
+            get { return AttackPower; }
+            set { AttackPower = value; }
+        }
+        protected double DefensePower
+        {
+            get { return DefensePower; }
+            set { DefensePower = value; }
+        }
 
         protected Character(string name)
         {
             Name = name;
+            Level = 1;
         }
     }
 }

@@ -13,7 +13,6 @@ namespace BasicRPG.entities
         {
             this.Name = name;
             this.TotalLife = 10;
-            this.Level = 1;
             this.AttackPower = 6;
             this.DefensePower = 4;
         }
